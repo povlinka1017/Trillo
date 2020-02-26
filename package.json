@@ -1,0 +1,22 @@
+{
+  "name": "trillo",
+  "version": "1.0.0",
+  "description": "Booking Landing Page",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css"
+  },
+  "author": "Oleh Pavlenko",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.13.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Trillo Flex"
+  },
+  "keywords": [
+    "flexbox",
+    "css"
+  ]
+}
